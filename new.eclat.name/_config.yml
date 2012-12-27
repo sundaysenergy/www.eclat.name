@@ -1,6 +1,6 @@
 safe: true
 baseurl: /
 url: http://new.eclat.name
-permalink: /:node/:title
+permalink: /node/:title
 lsi: false
 pygments: true
