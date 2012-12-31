@@ -1,4 +1,4 @@
 baseurl: /
 url: http://new.eclat.name
-permalink: /node/:title
+permalink: /:title
 pygments: true
