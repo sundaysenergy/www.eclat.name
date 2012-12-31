@@ -2,3 +2,4 @@ name: Éclat
 baseurl: /
 permalink: /:categories/:title.html
 pygments: true
+exclude: [ really-old-php ]
