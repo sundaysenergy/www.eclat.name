@@ -1,0 +1,29 @@
+---
+layout : default
+---
+
+<div align="left">
+  <br>
+  <table width="707" border="0" cellspacing="2" cellpadding="0">
+    <tr>
+      <td><br>
+        <br>
+        <br>
+          <ul class="nav">
+            {{# data.navigation?to_pages }}
+              {{> pages_list }}
+            {{/ data.navigation?to_pages }}
+          </ul>
+          <br>
+          <br>
+          <br>
+          <br>
+        </p>
+      </td>
+      <td><img src="{{urls.media}}/redline.gif" alt="" height="556" width="8" border="0"></td>
+      <td>
+          {{{content}}}
+      </td>
+    </tr>
+  </table>
+</div>

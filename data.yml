@@ -1,0 +1,25 @@
+title : Eclat
+tagline: Blog Tagline
+author :
+  name : Firstname Lastname
+  email : blah@email.test
+  github : username
+  twitter : username
+  feedburner : feedname
+
+navigation :
+  - home.html
+  - what-he-does.md
+  - node/13.md
+  - testimonials.md
+  - node/11.md
+  - node/18.md
+  - node/17.md
+  - node/12.md
+  - node/10.md
+  - node/14.md
+  - node/7.md
+  - a-few-photos.md
+  - node/4.md
+  - the-pitch.md
+  - contact.html
