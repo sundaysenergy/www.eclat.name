@@ -24,11 +24,6 @@ theme :
   # Here we use "theme" which makes this folder the theme.
   use : "theme"
 
-twitter :
-  # Tells ruhoh which collection class to use for this folder.
-  # Here we use "theme" which makes this folder the theme.
-  use : "theme"
-
 _root:
   summary_lines: 20
   rss:
