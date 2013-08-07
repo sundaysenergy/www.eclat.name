@@ -37,6 +37,8 @@ _root:
     enable: false
 pages:
   permalink: "/:relative_path/:filename"
+  paginator:
+    enable: false
 
 posts:
   sort: ["date", "desc"]
